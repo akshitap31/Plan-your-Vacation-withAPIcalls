@@ -1,4 +1,4 @@
-# Choose the place with ideal weather for your vacation
+# Choose the Location with Ideal Weather for your next Vacation!
 Created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator using the Google maps and Open Weather Maps API. Analysed weather correlations with the latitude and built a dashboard using HTML, CSS to display the analysis.
 
 ## Narrative
