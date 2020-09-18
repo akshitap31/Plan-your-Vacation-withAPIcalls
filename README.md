@@ -12,7 +12,7 @@ Created a Python script to visualize the weather of 500+ cities across the world
 * HTML
 * Bootstrap 
 * CSS
-* OWM API key (To get your own key:- https://openweathermap.org/appid )
+* OWM API key (To get your own key:-[click here](https://openweathermap.org/appid))
 * Google Maps API key (To get your own key:- https://developers.google.com/maps/documentation/javascript/get-api-key )
 * Github pages to launch the dashboard
 
